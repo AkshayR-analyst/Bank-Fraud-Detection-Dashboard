@@ -261,7 +261,7 @@ bank-fraud-detection-dashboard/
 
 **Akshay R**  
 Data Analyst | B.E. Electronics & Communication Engineering (2026)  
-Chennai, India | [GitHub](https://github.com/AkshayR-analyst) | [LinkedIn](https://www.linkedin.com/in/akshay-r/)
+Chennai, India | [GitHub](https://github.com/AkshayR-analyst) | [LinkedIn](https://www.linkedin.com/in/akshayR-analyst)
 
 ---
 
