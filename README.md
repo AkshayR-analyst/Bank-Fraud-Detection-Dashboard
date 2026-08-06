@@ -232,10 +232,10 @@ bank-fraud-detection-dashboard/
 ## 📸 Screenshots
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/Bank_Fraud_Detection_Dashboard.png)
+ ![Power BI Dashboard](Images/Bank_Fraud_Detection_Dashboard.png)
 
 ### Data Model (Star Schema)
-![Data Model](images/Bank_Fraud_Detection_Data_Model.png)
+![Data Model](Images/Bank_Fraud_Detection_Data_Model.png)
 
 ---
 
