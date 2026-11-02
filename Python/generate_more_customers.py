@@ -17,7 +17,7 @@ fake = Faker('en_IN')
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Akshay@2005",
+    "password": "MY_Password",
     "database": "fraud_detection"
 }
 
