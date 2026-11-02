@@ -249,6 +249,17 @@ bank-fraud-detection-dashboard/
 
 ---
 
+## Machine Learning: Classification
+
+- Data: synthetic transactions generated with Python, stored in MySQL (85,000 rows).
+- Label: high-risk = top 1% of amounts (rule-based).
+- Model: Logistic Regression (scikit-learn) with class weights for the 1% imbalance.
+- Evaluation: confusion matrix, precision and recall.
+- Finding: without amount as an input, the model could not predict high-risk transactions (precision about 1%), because the synthetic data has no such pattern. With amount included, it only reproduces the rule.
+- Notebook: [fraud_classification.ipynb](Python/fraud_classification.ipynb)
+
+---
+
 ## 📝 Notes
 
 - **Dataset:** Synthetically generated for learning purposes (realistic patterns, no actual fraud cases)
